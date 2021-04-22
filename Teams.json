@@ -1,7 +1,7 @@
 [
   {
-    "city": "Arizona",
-    "mascot": "Cardinals",
+    "city": "Hickory ",
+    "mascot": "Yellow Jackets ",
     "short": "ARI",
     "homeText": "FFFFFF",
     "homeMain": "97233F",
@@ -11,8 +11,8 @@
     "awaySecondary": "000000"
   },
   {
-    "city": "Los Angeles",
-    "mascot": "Rams",
+    "city": "Liberty",
+    "mascot": "Leopards",
     "short": "LAR",
     "homeText": "FFD100",
     "homeMain": "003594",
@@ -22,8 +22,8 @@
     "awaySecondary": "FFD100"
   },
   {
-    "city": "San Francisco",
-    "mascot": "49ers",
+    "city": "Memorial ",
+    "mascot": "Red Devils ",
     "short": "SF",
     "homeText": "FFFFFF",
     "homeMain": "AA0000",
@@ -33,8 +33,8 @@
     "awaySecondary": "B3995D"
   },
   {
-    "city": "Seattle",
-    "mascot": "Seahawks",
+    "city": "Newton falls ",
+    "mascot": "hawks",
     "short": "SEA",
     "homeText": "A5ACAF",
     "homeMain": "002244",
@@ -308,8 +308,8 @@
     "awaySecondary": "4B92DB"
   },
   {
-    "city": "Buffalo",
-    "mascot": "Bills",
+    "city": "Struthers ",
+    "mascot": "Wildcats ",
     "short": "BUF",
     "homeText": "FFFFFF",
     "homeMain": "00338D",
@@ -319,8 +319,8 @@
     "awaySecondary": "C60C30"
   },
   {
-    "city": "Miami",
-    "mascot": "Dolphins",
+    "city": "Lakeview ",
+    "mascot": "Bulldogs ",
     "short": "MIA",
     "homeText": "FFFFFF",
     "homeMain": "008E97",
@@ -330,8 +330,8 @@
     "awaySecondary": "FC4C02"
   },
   {
-    "city": "New England",
-    "mascot": "Patriots",
+    "city": "Hubbard ",
+    "mascot": "Eagles",
     "short": "NE",
     "homeText": "FFFFFF",
     "homeMain": "002244",
@@ -341,8 +341,8 @@
     "awaySecondary": "C60C30"
   },
   {
-    "city": "New York",
-    "mascot": "Jets",
+    "city": "Girard ",
+    "mascot": "Indians",
     "short": "NYJ",
     "homeText": "FFFFFF",
     "homeMain": "125740",
